@@ -13,7 +13,11 @@ I’m a full-stack developer focused on building clean and professional web inte
 
 ## 🚀 Projects
 ### [Pizzashop](https://github.com/Zerossik/pizzashop) | [Live page](https://zerossik.github.io/pizzashop/)
-<sub>Pizzashop – a landing page for a small pizzeria. It allows customers to choose a pizza, select a size, add custom ingredients, add their custom pizza to the cart, and then place an order. Built with HTML, SCSS, and vanilla JavaScript. Features a responsive design, interactive elements, and a slider implemented with Swiper.js. I created a custom state hook based on a Proxy object, which accepts an initial state and a callback executed on state changes. Components are encapsulated in their own classes to maintain clean architecture.</sub>
+<sub>Adaptive landing page for a small pizzeria. The website allows users to choose a pizza, select its size, and add extra ingredients, after which they can proceed to checkout.
+The site is built using the following technologies: HTML, CSS (SASS), and JavaScript (ES6).
+For product cards and the shopping cart, I used the MVVM (Model-View-ViewModel) and Observer patterns.
+To track data changes, I created my own implementation of a useState hook based on ProxyObject.
+The slider (for mobile and tablet versions of the site) is built with Swiper.js (Web Components).</sub>
 ---
 
 ## 📫 Contacts:
