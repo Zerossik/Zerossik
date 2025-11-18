@@ -19,6 +19,11 @@ For product cards and the shopping cart, I used the MVVM (Model-View-ViewModel) 
 To track data changes, I created my own implementation of a useState hook based on ProxyObject.
 The slider (for mobile and tablet versions of the site) is built with Swiper.js (Web Components).</sub>
 ---
+### [TService](https://github.com/Zerossik/service-center_rest-api)
+<sub>REST API for managing a service center and its requests. Implemented authorization 
+with full data isolation, CRUD operations for requests and contacts, management of technicians, 
+and flexible settings (device types, manufacturers, tables, theme). All data is stored in MongoDB, 
+with support for search, filtering, and sorting. </sub>
 
 ## 📫 Contacts:
 - Email: vladyslav.tovstyi@gmail.com 
